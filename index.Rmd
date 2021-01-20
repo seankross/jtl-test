@@ -1,0 +1,55 @@
+---
+title: "Jeff Leek"
+image: "jeff.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/jtleek"
+  - label: Twitter
+    url: "https://twitter.com/jtleek"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/jtleek/"
+  - label: Work with me
+    url: "https://github.com/jtleek/jobs"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Jeff is a professor of Biostatistics and Oncology at the Johns Hopkins Bloomberg School of Public Health and co-director of the Johns Hopkins Data Science Lab.  His group develops statistical methods, software, data resources, and data analyses that help people make sense of massive-scale genomic and biomedical data.  As the co-director of the Johns Hopkins Data Science Lab he has helped to develop massive online open programs that have enrolled more than 8 million individuals and partnered with community-based non-profits to used data science education as an economic and public health intervention. 
+
+## Projects
+
+These are some things I'm helping build. 
+
+**[recount](https://jhubiostatistics.shinyapps.io/recount/)** | Population scale gene expression
+
+**[JHU Data Science Lab](https://jhudatascience.org/)** | Scalable education and MOOCs
+
+**[Cloud Data Science](https://www.clouddatascience.org/)** | Training for under-served communities
+
+**[ITCR Training](https://www.itcrtraining.org/)** | Cancer data science resource
+
+**[AnVIL](https://anvilproject.org/)** | Genomic data science in the cloud
+
+
+
+## Products
+
+These are some things I've helped produce. 
+
+**[Talks](https://github.com/jtleek/talks)** |  Talks about our work
+
+**[Papers](https://scholar.google.com/citations?user=HI-I6C0AAAAJ&hl=en&oi=ao)** | Papers about our work
+
+**[Software](https://github.com/jtleek/software)** | Software we've made
+
+**[Data](https://github.com/jtleek/data)** | Data resources we've built
+
+**[Books](https://github.com/jtleek/books)** | Books I've written
+
+**[Guides](https://github.com/search?q=user%3Ajtleek+guides)** | Guides I've written
+
+**[Courses](https://github.com/jtleek/courses)** | Courses I've taught
+
+**[Blog](https://simplystatistics.org/)** | Blog I help write
